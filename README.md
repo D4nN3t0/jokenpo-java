@@ -5,7 +5,7 @@ Um jogo clássico de **Pedra, Papel e Tesoura** desenvolvido em Java, executado 
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="demo.gif" alt="Demonstração do jogo Jokenpô" width="600"/>
+  <img src="demo.gif" alt="Demonstração do jogo Jokenpô" width="300"/>
 </p>
 
 ---
